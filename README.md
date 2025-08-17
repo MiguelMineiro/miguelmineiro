@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Desenvolvedor em formação, em busca de resolver problemas e criar soluçoes e sempre me aprimorar.
-Tenho focado meus estudos em Java e Flutter, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jomada como dev.
+Tenho focado meus estudos em Java e Flutter, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada como dev.
 </p>
 
 ###
