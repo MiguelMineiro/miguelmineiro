@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Eu sou o Miguel 🐱‍👤</h1>
+<h1 align="left">MiguelMineiro
 
 ###
 
