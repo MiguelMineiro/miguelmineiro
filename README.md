@@ -1,6 +1,6 @@
 <h1 align="left">È o Minerin
 
-![Banner do Perfil](images.png)
+![Banner do Perfil]()
 
 ###
 
